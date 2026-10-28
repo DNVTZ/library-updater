@@ -1,0 +1,11 @@
+node_modules/
+
+# Секреты
+libraryUpdaterKey*.json
+.env
+
+# Результаты запуска
+debug/
+packageVersions.json
+updatedPackage.json
+manualScripts.md
